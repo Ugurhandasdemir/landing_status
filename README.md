@@ -17,3 +17,6 @@ Bu proje, bilgisayarla görme (Computer Vision) teknikleri kullanarak iniş alan
 - **Python**
 - **OpenCV (cv2)**
 - **NumPy**
+
+
+![Sonuç](https://github.com/Ugurhandasdemir/landing_status/blob/main/Screenshot%20from%202025-10-02%2023-30-11.png)
